@@ -3,3 +3,10 @@ iis-ng hosting
     > ng build
     > iis position
     > web.config(./ngtip-web.config)
+
+ng debug (https://stackoverflow.com/questions/50013884/how-to-debug-angular-application-in-vscode-using-edge-browser)
+    > vscode setup
+    > install edge extension(https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-edge)
+    > vscode source open > launch.json edit > debug view(c+s+D) > edge add and port etc
+    > ts code break > VS F5
+    > https://github.com/MicrosoftDocs/visualstudio-docs/blob/master/docs/debugger/how-to-enable-debugging-for-aspnet-applications.md
