@@ -1,0 +1,5 @@
+iis-ng hosting
+    > iis web platform install, url rewrite 2.0 install
+    > ng build
+    > iis position
+    > web.config(./ngtip-web.config)

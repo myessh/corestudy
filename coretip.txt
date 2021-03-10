@@ -1,0 +1,3 @@
+iis core hosting
+  > hosting bundle setup, 관리파이프라인-없음, Development environment(iis>app>구성편집기>system.webserver/aspnetcore>app web.config>environmentVariables edit
+  > 
