@@ -10,3 +10,13 @@ ng debug (https://stackoverflow.com/questions/50013884/how-to-debug-angular-appl
     > vscode source open > launch.json edit > debug view(c+s+D) > edge add and port etc
     > ts code break > VS F5
     > https://github.com/MicrosoftDocs/visualstudio-docs/blob/master/docs/debugger/how-to-enable-debugging-for-aspnet-applications.md
+
+angular setup
+    > nodejs setup
+    > npm install -g @angular/cli
+    
+프로젝트 단독실행
+    > npm install, ng serve
+    
+프로젝트 배포
+    > 
